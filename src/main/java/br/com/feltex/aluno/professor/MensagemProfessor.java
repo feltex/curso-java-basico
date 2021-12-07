@@ -1,4 +1,4 @@
-package br.com.feltex.professor;
+package br.com.feltex.aluno.professor;
 
 public class MensagemProfessor {
 

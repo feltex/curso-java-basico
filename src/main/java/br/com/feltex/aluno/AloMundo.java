@@ -1,4 +1,4 @@
-package br.com.feltex;
+package br.com.feltex.aluno;
 
 public class AloMundo {
 
